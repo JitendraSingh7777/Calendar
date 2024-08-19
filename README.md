@@ -1,2 +1,2 @@
 # Calendar
-Calendar using HTML,CSS &amp; JAVASCRIPT
+Calendar using HTML,CSS & JAVASCRIPT
